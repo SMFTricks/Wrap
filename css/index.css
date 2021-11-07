@@ -3893,7 +3893,7 @@ span.hidelink
 #menu 
 {
     display: block;
-	background: transparent url(../images/theme/menu.png) top left;
+	background: transparent;
 	margin: 0;
 	float: right;
     overflow: hidden;
